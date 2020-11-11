@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">I'm a Mobile Developer, Technology Enthusiast and Traveller!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sattwikb" alt="sattwikb" /> </p>
+
 - 🔭 I’m currently working on my own **Android App** to release on Play Store.
 - 🌱 I’m currently learning **Flutter**.
 - 👯 I’m looking for **Android Developer** role.
