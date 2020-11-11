@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my own **Android App** to release on Play Store.
 - 🌱 I’m currently learning **Flutter**.
-- 👯 I’m looking for **Android Developer** role.
+- 📱  I’m looking for **Android Developer** role.
 - 🥅 **Goals:** To develop awesome **mobile apps**.
 - 📝 I sometimes write **articles** on https://www.mrmobo.com
 - 💬 Ask me about **Android** and Mobile Development.
