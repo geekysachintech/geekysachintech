@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">I'm a Mobile Developer, Technology Enthusiast and Traveller!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sattwikb" alt="sattwikb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekysachintech" alt="sattwikb" /> </p>
 
 - 🔭 I’m currently working on my own **Android App** to release on Play Store.
 - 🌱 I’m currently learning **Flutter**.
@@ -26,6 +26,7 @@
 
 <img align="left" alt="Android" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
+<img align="left" alt="Git" width="40px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
