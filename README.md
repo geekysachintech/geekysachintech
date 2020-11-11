@@ -32,8 +32,11 @@
 <br/>
 <br/>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekysachintech&layout=compact&hide=html" alt="sattwikb" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekysachintech&show_icons=true" alt="sattwikb" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekysachintech)](https://github.com/geekysachintech/github-readme-stats) [![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=geekysachintech)](https://github.com/geekysachintech/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekysachintech)](https://github.com/geekysachintech/github-readme-stats) 
+[![Sachin's github stats](https://github-readme-stats.vercel.app/api?username=geekysachintech)](https://github.com/geekysachintech/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/geekysachin/
