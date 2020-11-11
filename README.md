@@ -11,7 +11,7 @@
 - 💬 Ask me about **Android** and Mobile Development.
 - 📫 How to reach me: geekysachin.info@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend my most of the time to just download and to try new Mobile Apps.
+- ⚡ Fun fact: I spend my most of the time to just download and try new Mobile Apps.
 
 ### Connect with me 
 
